@@ -6,3 +6,4 @@
 <img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/087c10f4-b4da-4959-9dca-501c0a1e1721" height="500"/>
 <img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/2de1939d-9486-4dd2-9662-dfbc8259310d" height="500"/>
 <img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/2ef2a77e-ee8a-4fda-8505-ee4de22068c9" height="500"/>
+<img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/846ebd57-10e9-4025-9406-78cb3dc94da2" height="500"/>
