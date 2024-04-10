@@ -5,4 +5,4 @@
 <img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/614b27d5-e240-4cc4-bff6-3dc9accb7c07" height="500"/>
 <img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/087c10f4-b4da-4959-9dca-501c0a1e1721" height="500"/>
 <img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/2de1939d-9486-4dd2-9662-dfbc8259310d" height="500"/>
-<img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/c3f1f3e8-5a6e-48f7-81d9-11a9ceafd560" heigth="400"/>
+<img src="https://github.com/Darshan6069/BhagvatGeeta/assets/138776334/2ef2a77e-ee8a-4fda-8505-ee4de22068c9" height="500"/>
